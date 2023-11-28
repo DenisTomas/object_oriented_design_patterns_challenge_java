@@ -1,4 +1,4 @@
-﻿# object_oriented_design_patterns_challenge_java
+﻿object_oriented_design_patterns_challenge_java
   
 # Calculadora Matemática / Math calculator
 
@@ -14,7 +14,7 @@ A classe `Calculadora` é responsável por realizar as operações matemáticas.
 A classe `OperacaoMatematica` contém os métodos que realizam as operações matemáticas. Ela é usada pela classe `Calculadora` para realizar as operações.
 
 This application was created to demonstrate the use of classes and methods in Java. It consists of two main classes: `Calculadora` and `OperacaoMatematica`.
-The `Calculator' class is responsible for performing mathematical operations. It has methods for addition, subtraction, multiplication and division.
+The `Calculator` class is responsible for performing mathematical operations. It has methods for addition, subtraction, multiplication and division.
 The `OperacaoMatematica` class contains the methods that perform the mathematical operations. It is used by the `Calculadora` class to perform the operations.
 
 🚀 Como Usar / How to Use
