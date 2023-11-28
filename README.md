@@ -1,8 +1,6 @@
-﻿object_oriented_design_patterns_challenge_java
+#﻿object_oriented_design_patterns_challenge_java
   
-# Calculadora Matemática / Math calculator
-
-## Título / Title
+## Calculadora Matemática / Math calculator
 
 Calculadora Matemática é uma aplicação simples que realiza as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
 Math Calculator is a simple application that performs the four basic mathematical operations: addition, subtraction, multiplication and division.
